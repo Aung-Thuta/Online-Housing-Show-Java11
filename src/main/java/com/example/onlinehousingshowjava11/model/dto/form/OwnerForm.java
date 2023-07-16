@@ -1,4 +1,4 @@
-package com.example.onlinehousingshowjava11.form;
+package com.example.onlinehousingshowjava11.model.dto.form;
 
 
 import lombok.Data;
